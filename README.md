@@ -1,7 +1,7 @@
 ## Progressive weather web app (Testing )
 -------
 ##DEMO
-    [pwa-app-5fe2d.firebaseapp.com](pwa-app-5fe2d.firebaseapp.com)
+    https://pwa-app-5fe2d.firebaseapp.com
 
 ##Features
  -Works Offline
